@@ -37,9 +37,7 @@
 **Contribuciones**
 - Abre issues o PRs con mejoras al script o al dataset. Añade ejemplos reproducibles.
 
-**Licencia**
-- Este repositorio usa la licencia MIT por defecto. Cambia según prefieras.
+**Autor**
+Valeria Rivera
 
----
 
-¿Quieres que añada un `package.json`, scripts de ejecución o ejemplos de CI para este test?
